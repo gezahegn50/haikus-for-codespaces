@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>My First Home Page</title>
+</head>
+<body>
+ <h1>Home Page</h1>
+ <a href="index.html">index</a>
+ <a href="image.html">image</a>
+ <a href="search.html"></a>
+ <a href="link.html">link</a>
+ <from action="https://replit.com/search" method="get"
+ <input name="repl" type="text"/>
+ <input type="submit" value="add file"/>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>index</title>
+</head>
+<body>
+<h1>My Course List</h1>
+ <ol>
+ <li>hardware</li>
+ <li>internet</li>
+ <li>multimedia</li>
+ <li>security</li>
+ <li>web development</li>
+ <li>programming</li>
+ </ol>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>image</title>
+</head>
+<body>
+<h1>image</h1>
+ <https://www.wordpress.org/photos/photo/68063061a4/"/>
+ <img alt="car" src="car.jpg"/>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>search</title>
+</head>
+<body>
+ <from action="https://replit.com/search" method="get"
+ <input name="q" type="text"/>
+ <input type="submit" value="add file"/>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>link</title>
+</head>
+<body>
+ visit <a href="https://replit.com/"> replit</a>.
+</body>
+</html>
+
+<html lang="en">
+<head>
+ <title>css0</title>
+</head>
+<body>
+ <head style="font-size: larg; text-align: center;"/>
+ home page
+ </head>
+ <main style="font-size: medium; text-align: center;"/>
+ 
+ </main>
+ <footer style="font-size: small; text-align: center;"/>
+ 
+ </footer>
+</body>
+</html>
